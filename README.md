@@ -5,5 +5,5 @@
 ## Driver Mediatek or Snapdragon
 - soon
 
-# Software unlock/unbrick hp
+## Software unlock/unbrick hp
 - soon

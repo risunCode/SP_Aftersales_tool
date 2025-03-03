@@ -11,10 +11,6 @@
 |--------------------------|------------------|
 | 🛒 MTKAuthBypassToolV30 (MABT)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MTKAuthBypassToolV30.7z)             |
 | 🛒 mtk_bypass_rev4         | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MCT_BypassV4_plus.zip)             |
-<br>
-
----
-<br>
 
 ## Program Write IMEI
 | 🔧 Nama Aplikasi         | 📥 Link Download |

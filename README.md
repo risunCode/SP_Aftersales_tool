@@ -2,12 +2,13 @@
 > Brought to you by: RisunTuru
 > - all credits goes to respective owners. (create pull request for credits or removal).
 > - Terakhir diedit pada 4 Maret 2025
-  
+
+
 ## Mediatek Bypass Auth
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
 | MTKAuthBypassToolV30 (MABT)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MTKAuthBypassToolV30.7z)             |
-| mtk_bypass_rev4         | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/mtk_bypass_rev4.rar)             |
+| mtk_bypass_rev4         | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MCT_BypassV4_plus.zip)             |
 
 ## Driver Mediatek or Snapdragon
 | 🔧 Nama Driver                     | 📋 Keterangan                                  | 📥 Link Download |
@@ -29,4 +30,3 @@
 | 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
 |------------------------|-------------------------|------------------|
 | DotNet 3.5          | Mungkin akan diperlukan untuk menginstall Miflashtool           |  [Download](https://github.com/abbodi1406/dotNetFx35W10/releases/download/v0.20.01/dotNetFx35_WX_9_x86_x64.zip)            |
-

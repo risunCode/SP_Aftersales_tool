@@ -5,6 +5,7 @@
 
 
 ## Mediatek Bypass Auth
+- Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
 | MTKAuthBypassToolV30 (MABT)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MTKAuthBypassToolV30.7z)             |

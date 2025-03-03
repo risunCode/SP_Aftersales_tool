@@ -3,13 +3,15 @@
 > - all credits goes to respective owners. (create pull request for credits or removal).
 > - Terakhir diedit pada 4 Maret 2025
 
+# Kumpulan Software teknisi ponsel
+- Oke
+
+
 ## Mediatek Bypass Auth
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
 | MTKAuthBypassToolV30 (MABT)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MTKAuthBypassToolV30.7z)             |
 | mtk_bypass_rev4         | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/mtk_bypass_rev4.rar)             |
-
-  
 
 ## Driver Mediatek or Snapdragon
 | 🔧 Nama Driver                     | 📋 Keterangan                                  | 📥 Link Download |

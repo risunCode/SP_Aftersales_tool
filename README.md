@@ -4,8 +4,9 @@
 
 ## Mediatek Bypass Auth
 | 🔧 Nama Aplikasi         | 📥 Link Download |
-| mtk_bypass_rev4           | Download         |
-| MTKAuthBypassToolV30      | Download         |
+|--------------------------|------------------|
+| mtk_bypass_rev4         | null             |
+| MTKAuthBypassToolV30    | null             |
   
 
 ## Driver Mediatek or Snapdragon

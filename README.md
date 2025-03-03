@@ -25,7 +25,9 @@
 | 🛒 USB Filter Untuk Bypass Auth Rev 4 | Filter USB Mediatek/All Chip        | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/libusb-win32-devel-filter-1.2.6.0.exe)             |
 | 🛒 Qualcomm USB Driver V1.0           | Driver untuk perangkat Snapdragon              |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Qualcomm_samsung_USB_Driver/Qualcomm_USB_Driver_V1.0.exe)             |
 
-
+# Download all in one Mediatek,Qcom, Samsung Driver & Auth Bypass
+- [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/Driver_MTK_QCOM_Preloader.7z)
+  
 ## Software Unlock/Unbrick HP
 - Lihat Gambar Program: [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/FlashTool_Android)
 

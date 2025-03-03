@@ -33,7 +33,7 @@
 | 🛒 Qualcomm USB Driver V1.0           | Driver untuk perangkat Snapdragon              |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Qualcomm_samsung_USB_Driver/Qualcomm_USB_Driver_V1.0.exe)             |
 <br>
 
----
+--
 <br>
 
 ### Software Unlock/Unbrick HP

@@ -20,7 +20,11 @@
 
 ## Download all in one Mediatek,Qcom, Samsung Driver & Auth Bypass
 - [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/Driver_MTK_QCOM_Preloader.7z)
-  
+<br>
+
+--
+<br>
+
 ### Driver Mediatek or Snapdragon
 | 🔧 Nama Driver                     | 📋 Keterangan                                  | 📥 Link Download |
 |------------------------------------|------------------------------------------------|------------------|

@@ -2,10 +2,7 @@
 > Brought to you by: RisunTuru
 > - all credits goes to respective owners. (create pull request for credits or removal).
 > - Terakhir diedit pada 4 Maret 2025
-<br>
 
--
-<br>
 
 ## Mediatek Bypass Auth
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)

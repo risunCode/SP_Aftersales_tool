@@ -4,7 +4,7 @@
 > - Terakhir diedit pada 4 Maret 2025
 <br>
 
-rsdwdef7234diahdasd
+---
 <br>
 
 ## Mediatek Bypass Auth

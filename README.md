@@ -3,7 +3,10 @@
 > - Terakhir diedit pada 1 Maret 2025
 
 ## Mediatek Bypass Auth
-- wait  
+| 🔧 Nama Aplikasi         | 📥 Link Download |
+| mtk_bypass_rev4           | Download         |
+| MTKAuthBypassToolV30      | Download         |
+  
 
 ## Driver Mediatek or Snapdragon
 | 🔧 Nama Driver                     | 📋 Keterangan                                  | 📥 Link Download |

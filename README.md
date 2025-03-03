@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > Brought to you by: RisunTuru
-> All credits goes to respective owners. (create pull request for credits or removal).
+> - all credits goes to respective owners. (create pull request for credits or removal).
 > - Terakhir diedit pada 4 Maret 2025
 
 ## Mediatek Bypass Auth

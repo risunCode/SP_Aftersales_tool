@@ -24,6 +24,6 @@
 |------------------------|-------------------------|------------------|
 | TFTUnlockTool          | Gratis (Free)           | null             |
 | SPFlashTool            | Versi 5.1924 (Tested)   | null             |
-| Tecno Flash Tool       | V4.1901.23.17           | null             |
+| Tecno/Infinix Flash Tool (SWD_flashtool)      | V4.1901.23.17           | null             |
 | MiFlash                | Versi 201612220         | null             |
  

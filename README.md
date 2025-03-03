@@ -19,11 +19,15 @@
 
 
 ## Software Unlock/Unbrick HP
-
 | 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
 |------------------------|-------------------------|------------------|
-| TFTUnlockTool          | Gratis (Free)           | null             |
-| SPFlashTool            | Versi 5.1924 (Tested)   | null             |
-| Tecno/Infinix Flash Tool (SWD_flashtool)      | V4.1901.23.17           | null             |
-| MiFlash                | Versi 201612220         | null             |
- 
+| TFTUnlockTool          | Gratis (Free)           | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/TFTUnlock-2024-v6.1.1.1.zip)             |
+| SPFlashTool            | Versi 5.1924 (Tested)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/SP_Flash_Tool_v5.1924_Win.rar)             |
+| Tecno/Infinix Flash Tool (SWD_flashtool)      | V4.1901.23.17           | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/Tecno.Flash.Tool.V4.1901.23.17-fidetec.com.rar)             |
+| MiFlash                | Versi 201612220         | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/SERING.DIPAKAI._MiFlash_201612220.msi)             |
+
+## Software Tambahan (depecency)
+| 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
+|------------------------|-------------------------|------------------|
+| DotNet 3.5          | Mungkin akan diperlukan untuk menginstall Miflashtool           |  [Download](https://github.com/abbodi1406/dotNetFx35W10/releases/download/v0.20.01/dotNetFx35_WX_9_x86_x64.zip)            |
+

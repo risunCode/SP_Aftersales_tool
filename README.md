@@ -1,6 +1,7 @@
 > [!IMPORTANT]
 > Brought to you by: RisunTuru
-> - Terakhir diedit pada 1 Maret 2025
+> All credits goes to respective owners. (create pull request for credits or removal).
+> - Terakhir diedit pada 4 Maret 2025
 
 ## Mediatek Bypass Auth
 | 🔧 Nama Aplikasi         | 📥 Link Download |

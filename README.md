@@ -6,6 +6,8 @@
 
 ### Mediatek Bypass Auth
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)
+- Chip Spreadtrum tidak perlu bypass
+- Samsung? Only ODIN mode
 
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
@@ -31,9 +33,11 @@
 | 🛒 Mediatek SP Driver AIO             | Driver lengkap untuk Mediatek                   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/Mediatek.SP.Driver.v5.1632.Setup.exe)             |
 | 🛒 USB Filter Untuk Bypass Auth Rev 4 | Filter USB Mediatek/All Chip        | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/libusb-win32-devel-filter-1.2.6.0.exe)             |
 | 🛒 Qualcomm USB Driver V1.0           | Driver untuk perangkat Snapdragon              |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Qualcomm_samsung_USB_Driver/Qualcomm_USB_Driver_V1.0.exe)             |
+| 🛒 Samsung.USB.Driver.v1.7.61.0          | Driver untuk perangkat Samsung            |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Qualcomm_samsung_USB_Driver/Samsung.USB.Driver.v1.7.61.0.exe)            |
+| 🛒 UsbDk v1.0.22_x64         | Driver USB tambahan untuk HP          |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/UsbDk_1.0.22_x64.msi) |
 <br>
 
---
+--  
 <br>
 
 ### Software Unlock/Unbrick HP

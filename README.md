@@ -8,6 +8,7 @@
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)
 - Chip Spreadtrum tidak perlu bypass
 - Samsung? Only ODIN mode
+- QCOM only EDL 9008
 
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|

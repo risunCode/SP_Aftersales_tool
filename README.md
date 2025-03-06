@@ -4,7 +4,7 @@
 > - Terakhir diedit pada 4 Maret 2025
 >
 
-### Mediatek Bypass Auth
+### Bypass Auth
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)
 - Chip Spreadtrum tidak perlu bypass
 - Samsung? Only ODIN mode

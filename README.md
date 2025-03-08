@@ -27,7 +27,6 @@
 
 ## AIO Driver & bypass Auth
 - Mediatek,Qcom, Samsung Driver & Auth Bypass
-- updated 8 march 2025
 - [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/Driver_MTK_QCOM_Preloader_fix.7z)
 <br>
 

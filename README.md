@@ -61,9 +61,10 @@
 --
 <br>
 ### Software Flasher Unlocker Lain
-| 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
-| 🛒 soon       | Tool Unlocker Lain     |  Download         |
-| 🛒 soon       | Tool Unlocker Lain     |  Download         |
+| 🔧 Nama Aplikasi         | 📥 Link Download |
+|--------------------------|------------------|
+| 🔧 soon         |  Download  |
+| 🔧 soon        |  Download |
 
 <br>
 

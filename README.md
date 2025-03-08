@@ -25,7 +25,8 @@
 | 🔧 SN WRITE TOOL        |  [Download](https://androidmtk.com/download-sn-write-tool) |
 
 ## Download all in one Mediatek,Qcom, Samsung Driver & Auth Bypass
-- [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/Driver_MTK_QCOM_Preloader.7z)
+- updated 8 march 2025
+- [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_Drivers/Driver_MTK_QCOM_Preloader_fix.7z)
 <br>
 
 --

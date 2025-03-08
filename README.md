@@ -60,14 +60,20 @@
 
 --
 <br>
+### Software Flasher Unlocker Lain
+| 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
+| 🛒 MTK GSM SULTENG v1.3.8        | Tool Bypass, mirip TFT, bisa untuk UBL haram Xiaomi/mtk juga!         |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Arsip_Program/MTK.GSM.Sulteng.V1.3.8.7z)          |
+| 🛒 soon       | Tool Unlocker Lain     |  Download         |
+<br>
 
+--
+<br>
 ### Software Tambahan (depecency)
 | 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
 |------------------------|-------------------------|------------------|
 | 🛒 DotNet 3.5          | Mungkin akan diperlukan untuk menginstall Miflashtool           |  [Download](https://github.com/abbodi1406/dotNetFx35W10/releases/download/v0.20.01/dotNetFx35_WX_9_x86_x64.zip)            |
 | 🛒 APK Debloater via ADB         | Menghapus bloatware dari hp, HATI HATI!          |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Arsip_Program/Debloat_APK.exe)            |
-| 🛒 MTK GSM SULTENG v1.3.8        | Tool Bypass, mirip TFT, bisa untuk UBL haram Xiaomi/mtk juga!         |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Arsip_Program/MTK.GSM.Sulteng.V1.3.8.7z)          |
-<br>
+
 
 
 ---

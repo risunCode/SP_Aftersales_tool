@@ -7,7 +7,7 @@
 - 8 Maret 2025, update link, remove unsafe tool (infected worm lol).
 - keep safe program only
 
-### Bypass Auth
+### Bypass Auth Meketek
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)
 - Chip Spreadtrum tidak perlu bypass
 - Samsung? Only ODIN mode

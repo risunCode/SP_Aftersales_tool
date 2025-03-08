@@ -2,7 +2,10 @@
 > - Brought to you by: RisunTuru
 > - all credits goes to respective owners. (create pull request for credits or removal).
 > - Terakhir diedit pada 8 Maret 2025
->
+
+#### Changelogs
+- 8 Maret 2025, update link, remove unsafe tool (infected worm lol).
+- keep safe program only
 
 ### Bypass Auth
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)

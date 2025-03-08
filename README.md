@@ -51,7 +51,7 @@
 
 | 📱 Nama Software       | 📋 Keterangan           | 📥 Link Download |
 |------------------------|-------------------------|------------------|
-| 🛒 TFTUnlockTool          | Gratis (Free)           | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/TFTUnlock-2024-v6.1.1.1.zip)             |
+| 🛒 TFTUnlockTool          | Gratis (Free) (Tested,recommended!)           | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/TFTUnlock-2024-v6.1.1.1.zip)             |
 | 🛒 SPFlashTool (include mtk auth!)           | Versi V5.2044 (Tested,recommended!)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/SP_Flash_Tool_edited_ByKurdishGSM_V5.2044.7z)             |
 | 🛒 SPFlashTool            | Versi 5.1924 (Tested)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/SP_Flash_Tool_v5.1924_Win.rar)             |
 | 🛒 Tecno/Infinix Flash Tool (SWD_flashtool)      | V4.1901.23.17           | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/FlashTool_Android/Tecno.Flash.Tool.V4.1901.23.17-fidetec.com.rar)             |

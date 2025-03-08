@@ -6,6 +6,7 @@
 #### Changelogs
 - 8 Maret 2025, update link, remove unsafe tool (infected worm lol).
 - keep safe program only
+- tested windows 10/11 (seharusnya bisa juga di windows 7/8!)
 
 ### Bypass Auth Meketek
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)

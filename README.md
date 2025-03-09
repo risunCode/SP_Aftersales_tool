@@ -65,7 +65,7 @@
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
 | 🔧  MTK GSM SULTENG v1.3.8         |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Arsip_Program/MTK.GSM.Sulteng.V1.3.8.7z)  |
-| 🔧 SMT UNLock Tool (tested lancelot)        |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Arsip_Program/SMT.Bootloader.Unlock.tool.7z) |
+| 🔧  SMT UNLock Tool (tested lancelot)        |  [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Arsip_Program/SMT.Bootloader.Unlock.tool.7z)  | 
 
 <br>
 

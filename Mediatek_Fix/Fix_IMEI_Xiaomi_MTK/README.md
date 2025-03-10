@@ -19,7 +19,7 @@
 ## **Langkah 1: Unbrick & Persiapan**
 1. **Flash ENG ROM** menggunakan **SP Flashtool (SPFT)**.  
 2. Setelah proses flashing selesai, **jangan langsung nyalakan HP, kalau udah nyala matiin aja & cabut kabel dari pc.**.
-3. **Install dan buka ModemMETA** (MAUIMETA).  
+3. Lanjut ke langkah 2
 ![image](https://github.com/user-attachments/assets/89778282-7450-4d9e-896e-cccfbc1358d7)
 
 ---

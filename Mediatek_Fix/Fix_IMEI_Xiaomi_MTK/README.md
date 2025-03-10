@@ -26,8 +26,9 @@
 
 ### **Langkah 2: Erase NVDATA & NVRAM**
 1. Buka **ModemMETA**, lalu klik **Connect**.  
-2. Masuk **Fastboot Mode** dengan perintah di **Minimal ADB and Fastboot**:
+2. Masuk **Fastboot Mode** dengan perintah menekan tombol Power + volume down (cabut terlebih dahulu kabel dari pc, jika sudah masuk ke fastboot baru hubungkan lagi ke pc)
    ![image](https://github.com/user-attachments/assets/625c69cd-9b20-45f9-b270-0216d7f39978)
+3. ketikkan command ini di cmd.
 
    ```
    fastboot erase nvdata

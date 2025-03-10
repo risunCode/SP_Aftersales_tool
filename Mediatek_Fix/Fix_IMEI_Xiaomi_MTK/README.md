@@ -106,6 +106,14 @@
 2. Colok USB, tahan **Volume Up + Volume Down** hingga proses backup selesai.  
 
 ---
+### **Langkah 8: CUSTOM ROM (Opsional)**
+1. Setelah masuk ke sistem, matikan HP.  
+2. Colok USB, tahan **Volume Up + Volume Down** hingga muncul fastboot.
+3. lalu flash recovery,
+4. reboot ke recovery dan sideload custom rom kamu.
+5. jangan lupa wipe/format data setelah sideload selesai.
+
+---
 
 ### **Kesimpulan**
 - Metode ini berlaku untuk **Chip MediaTek**.   

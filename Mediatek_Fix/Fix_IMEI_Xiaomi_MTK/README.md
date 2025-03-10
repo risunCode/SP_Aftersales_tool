@@ -116,7 +116,8 @@
 ---
 
 ### **Kesimpulan**
-- Metode ini berlaku untuk **Chip MediaTek**.   
+- Metode ini berlaku untuk **Chip MediaTek**.
+- Metode dengan eng rom ini hanya berlaku untuk xiaomi, untuk infinix terserah pake stock rom juga gak ngaruh wkwk. 
 
 ✅ **DONE! Siahkan cek imei anda!** 🎉  
  

@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > - Brought to you by: RisunTuru
 > - all credits goes to respective owners. (create pull request for credits or removal).
-> - Terakhir diedit pada 8 Maret 2025
+> - Terakhir diedit pada 10 Maret 2025
 
 #### Changelogs
 - 8 Maret 2025, update link, remove unsafe tool (infected worm lol).
@@ -10,9 +10,6 @@
 
 ### Bypass Auth Meketek
 - Gambar Program : [Lihat disini](https://github.com/risunCode/SP_Aftersales_tool/releases/tag/Mediatek_BypassAuth)
-- Chip Spreadtrum tidak perlu bypass
-- Samsung? Only ODIN mode
-- QCOM only EDL 9008
 
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
@@ -23,7 +20,7 @@
 ### Program Write IMEI
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
-| 🔧 Sp MAUI META         |  [Download](https://androidmtk.com/download-sp-meta-tool) |
+| 🔧 Sp MODEMMETA v10        |  [Download](https://androidmtk.com/download-modemmeta-tool) |
 | 🔧 SN WRITE TOOL        |  [Download](https://androidmtk.com/download-sn-write-tool) |
 
 ## AIO Driver & bypass Auth

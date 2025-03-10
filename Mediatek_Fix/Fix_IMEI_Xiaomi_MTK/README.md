@@ -1,4 +1,4 @@
-# **Repair NVDATA & Fix IMEI 1 / IMEI 2 Null pada Xiaomi MediaTek**
+![image](https://github.com/user-attachments/assets/89d01405-62d3-42c0-9667-20441f342d45)# **Repair NVDATA & Fix IMEI 1 / IMEI 2 Null pada Xiaomi MediaTek**
 
 **Ditulis oleh:** risunturu  
 **Arsip repositori:** [GitHub - SP Aftersales Tool](https://github.com/risunCode/SP_Aftersales_tool)
@@ -20,12 +20,15 @@
 1. **Flash ENG ROM** menggunakan **SP Flashtool (SPFT)**.  
 2. Setelah proses flashing selesai, **jangan langsung nyalakan HP, kalau udah nyala matiin aja & cabut kabel dari pc.**.
 3. **Install dan buka ModemMETA** (MAUIMETA).  
+![image](https://github.com/user-attachments/assets/89778282-7450-4d9e-896e-cccfbc1358d7)
 
 ---
 
 ## **Langkah 2: Erase NVDATA & NVRAM**
 1. Buka **ModemMETA**, lalu klik **Connect**.  
-2. Masuk **Fastboot Mode** dengan perintah di **Minimal ADB and Fastboot**:  
+2. Masuk **Fastboot Mode** dengan perintah di **Minimal ADB and Fastboot**:
+   ![image](https://github.com/user-attachments/assets/625c69cd-9b20-45f9-b270-0216d7f39978)
+
    ```
    fastboot erase nvdata
    ```
@@ -35,23 +38,33 @@
    ```
    fastboot reboot
    ```
-   ⚠ **Jangan tutup ModemMETA selama proses ini!**  
-3. Setelah reboot, ModemMETA akan otomatis mendeteksi perangkat (tunggu hingga progress bar 100%).  
+   ⚠ **Jangan tutup ModemMETA selama proses ini!**
+   ![image](https://github.com/user-attachments/assets/816be55e-6b3c-4c33-99f1-3da7c3481db6)
+
+4. Setelah reboot, ModemMETA akan otomatis mendeteksi perangkat (tunggu hingga progress bar 100%).  
 
 ### **Jika Stuck di Proses Ini:**
 - Matikan HP.  
-- Gunakan **MABT Tool**, lalu klik **Reboot META**.  
+- Gunakan **Android Utility v170**, lalu klik **Reboot META**.
+  ![image](https://github.com/user-attachments/assets/faa8d007-5c04-468a-b2d5-c7288af39d91)
+
 - Tekan **Volume Down**, lalu colok USB ke PC hingga masuk ke mode META.  
 - Kembali ke **MAUIMETA**, pilih **More DUT in META Mode**, lalu klik **Connect** dan tunggu hingga tersambung.  
 
 ---
 
 ## **Langkah 3: Restore IMEI**
+![image](https://github.com/user-attachments/assets/ecf3df53-438e-40d0-8695-5e769334ab2e)
+
 1. Setelah HP connected di ModemMETA, tekan **LOAD DB > From Target**.  
-2. Cari **IMEI DOWNLOAD** di kolom pencarian.  
-3. Masukkan **IMEI 1** dan **IMEI 2** perangkat (1 digit terakhir akan masuk sebagai checksum).  
-4. Klik **WRITE**, tunggu hingga proses selesai.  
-5. Jika sukses, klik **Disconnect** dan cabut perangkat.  
+2. Cari **IMEI DOWNLOAD** di kolom pencarian.
+   ![image](https://github.com/user-attachments/assets/c1aa9e72-9945-4216-aab6-08b17b674057)
+
+4. Masukkan **IMEI 1** dan **IMEI 2** perangkat (1 digit terakhir akan masuk sebagai checksum).  
+5. Klik **WRITE**, tunggu hingga proses selesai.
+   ![image](https://github.com/user-attachments/assets/3b853025-79ca-4846-82df-5e30e2256343)
+
+7. Jika sukses, klik **Disconnect** dan cabut perangkat.  
 
 ---
 
@@ -64,6 +77,8 @@
 ---
 
 ## **Langkah 5: Unlock Bootloader (UBL)**
+![image](https://github.com/user-attachments/assets/1c543652-9acb-4570-9a58-f9e670cc1739)
+
 1. Buka **Xiaomi Bootloader Tool**.  
 2. Pilih model HP atau gunakan **Auto Detect**.  
 3. Klik **Bootloader Unlock 1**.  

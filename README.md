@@ -16,6 +16,7 @@
 
 | 🔧 Nama Aplikasi         | 📥 Link Download |
 |--------------------------|------------------|
+| 🛒 AndroidUtility (v170) 180mb   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/AndroidUtility.v170.0.6677.7z) |
 | 🛒 MTKAuthBypassToolV30 (MABT)   | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MTKAuthBypassToolV30.7z)             |
 | 🛒 mtk_bypass_rev3 (safe)        | [Download](https://github.com/risunCode/SP_Aftersales_tool/releases/download/Mediatek_BypassAuth/MCT_BypassV3_safe.zip)             |
 

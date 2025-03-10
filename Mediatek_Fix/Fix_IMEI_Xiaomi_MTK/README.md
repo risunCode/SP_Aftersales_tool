@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89d01405-62d3-42c0-9667-20441f342d45)# **Repair NVDATA & Fix IMEI 1 / IMEI 2 Null pada Xiaomi MediaTek**
+# **Repair NVDATA & Fix IMEI 1 / IMEI 2 Null pada Xiaomi MediaTek**
 
 **Ditulis oleh:** risunturu  
 **Arsip repositori:** [GitHub - SP Aftersales Tool](https://github.com/risunCode/SP_Aftersales_tool)

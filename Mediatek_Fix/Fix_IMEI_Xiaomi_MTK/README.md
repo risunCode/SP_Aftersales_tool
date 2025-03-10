@@ -1,9 +1,9 @@
-# **Repair NVDATA & Fix IMEI 1 / IMEI 2 Null pada Xiaomi MediaTek**
+## **Repair NVDATA & Fix IMEI 1 / IMEI 2 Null pada Xiaomi MediaTek**
 
 **Ditulis oleh:** risunturu  
 **Arsip repositori:** [GitHub - SP Aftersales Tool](https://github.com/risunCode/SP_Aftersales_tool)
 
-## **Bahan yang Dibutuhkan**
+### **Bahan yang Dibutuhkan**
 1. **ENG ROM Xiaomi** – Cari di Telegram/Google  
    📌 [ENG ROM Telegram](https://t.me/xiaomiengs) (Gunakan codename perangkat)  
 2. **File md1img** (Diambil dari stock ROM, bukan ENG ROM)  
@@ -16,7 +16,7 @@
 
 ---
 
-## **Langkah 1: Unbrick & Persiapan**
+### **Langkah 1: Unbrick & Persiapan**
 1. **Flash ENG ROM** menggunakan **SP Flashtool (SPFT)**.  
 2. Setelah proses flashing selesai, **jangan langsung nyalakan HP, kalau udah nyala matiin aja & cabut kabel dari pc.**.
 3. Lanjut ke langkah 2
@@ -24,7 +24,7 @@
 
 ---
 
-## **Langkah 2: Erase NVDATA & NVRAM**
+### **Langkah 2: Erase NVDATA & NVRAM**
 1. Buka **ModemMETA**, lalu klik **Connect**.  
 2. Masuk **Fastboot Mode** dengan perintah di **Minimal ADB and Fastboot**:
    ![image](https://github.com/user-attachments/assets/625c69cd-9b20-45f9-b270-0216d7f39978)
@@ -53,7 +53,7 @@
 
 ---
 
-## **Langkah 3: Restore IMEI**
+### **Langkah 3: Restore IMEI**
 ![image](https://github.com/user-attachments/assets/ecf3df53-438e-40d0-8695-5e769334ab2e)
 
 1. Setelah HP connected di ModemMETA, tekan **LOAD DB > From Target**.  
@@ -68,7 +68,7 @@
 
 ---
 
-## **Langkah 4: Flash ROM Original**
+### **Langkah 4: Flash ROM Original**
 1. Matikan HP, **jangan nyalakan dulu**.  
 2. Flash **ROM Fastboot ORIGINAL** via **TFT Unlock/SPFT!**).  
 3. **Uncheck** bagian **Preloader, Cust, Exaid**, lalu flash ROM.  
@@ -76,7 +76,7 @@
 
 ---
 
-## **Langkah 5: Unlock Bootloader (UBL)**
+### **Langkah 5: Unlock Bootloader (UBL)**
 ![image](https://github.com/user-attachments/assets/1c543652-9acb-4570-9a58-f9e670cc1739)
 
 1. Buka **Xiaomi Bootloader Tool**.  
@@ -88,7 +88,7 @@
 
 ---
 
-## **Langkah 6: Flash md1img.img (Modem File)**
+### **Langkah 6: Flash md1img.img (Modem File)**
 1. Flash **md1img.img** dari stock ROM fastboot ORI dengan perintah:  
    ```
    fastboot flash md1img md1img.img
@@ -100,13 +100,13 @@
 
 ---
 
-## **Langkah 7: Backup NVDATA (Opsional)**
+### **Langkah 7: Backup NVDATA (Opsional)**
 1. Setelah masuk ke sistem, matikan HP.  
 2. Colok USB, tahan **Volume Up + Volume Down** hingga proses backup selesai.  
 
 ---
 
-## **Kesimpulan**
+### **Kesimpulan**
 - Metode ini berlaku untuk **Chip MediaTek**.   
 
 ✅ **DONE! Siahkan cek imei anda!** 🎉  

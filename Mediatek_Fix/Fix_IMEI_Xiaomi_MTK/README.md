@@ -18,7 +18,7 @@
 
 ## **Langkah 1: Unbrick & Persiapan**
 1. **Flash ENG ROM** menggunakan **SP Flashtool (SPFT)**.  
-2. Setelah proses flashing selesai, **jangan langsung nyalakan HP**.  
+2. Setelah proses flashing selesai, **jangan langsung nyalakan HP, kalau udah nyala matiin aja & cabut kabel dari pc.**.
 3. **Install dan buka ModemMETA** (MAUIMETA).  
 
 ---
@@ -28,7 +28,11 @@
 2. Masuk **Fastboot Mode** dengan perintah di **Minimal ADB and Fastboot**:  
    ```
    fastboot erase nvdata
+   ```
+   ```
    fastboot erase nvram
+   ```
+   ```
    fastboot reboot
    ```
    ⚠ **Jangan tutup ModemMETA selama proses ini!**  
@@ -43,7 +47,7 @@
 ---
 
 ## **Langkah 3: Restore IMEI**
-1. Setelah HP tersambung di ModemMETA, tekan **LOAD DB > From Target**.  
+1. Setelah HP connected di ModemMETA, tekan **LOAD DB > From Target**.  
 2. Cari **IMEI DOWNLOAD** di kolom pencarian.  
 3. Masukkan **IMEI 1** dan **IMEI 2** perangkat (1 digit terakhir akan masuk sebagai checksum).  
 4. Klik **WRITE**, tunggu hingga proses selesai.  
@@ -53,7 +57,7 @@
 
 ## **Langkah 4: Flash ROM Original**
 1. Matikan HP, **jangan nyalakan dulu**.  
-2. Flash **ROM Fastboot ORI** via **TFT Unlock** (Bukan SPFT!).  
+2. Flash **ROM Fastboot ORIGINAL** via **TFT Unlock/SPFT!**).  
 3. **Uncheck** bagian **Preloader, Cust, Exaid**, lalu flash ROM.  
 4. Setelah selesai, **cabut USB** (Jangan langsung nyalakan HP!).  
 
@@ -65,7 +69,7 @@
 3. Klik **Bootloader Unlock 1**.  
 4. Tekan **Volume Up + Volume Down + Power**, lalu colok USB ke PC.  
 5. Tunggu hingga proses selesai.  
-6. Setelah UBL sukses, masuk ke **Fastboot Mode** (**Power + Volume Down**).  
+6. Setelah UBL sukses, lanjut masuk ke **Fastboot Mode** (**Power + Volume Down**).  
 
 ---
 
@@ -73,6 +77,8 @@
 1. Flash **md1img.img** dari stock ROM fastboot ORI dengan perintah:  
    ```
    fastboot flash md1img md1img.img
+   ```
+   ```
    fastboot reboot
    ```
 2. HP akan reboot secara otomatis.  
@@ -86,8 +92,7 @@
 ---
 
 ## **Kesimpulan**
-- Metode ini berlaku untuk **Xiaomi MediaTek**.  
-- Untuk **Qualcomm (Snapdragon/Naga)**, gunakan **METHOD 1**.  
+- Metode ini berlaku untuk **Chip MediaTek**.   
 
 ✅ **DONE! Siahkan cek imei anda!** 🎉  
  

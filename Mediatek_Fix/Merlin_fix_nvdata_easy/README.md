@@ -1,4 +1,4 @@
-# MediaTek blog by risunTuru
+# Merlin NVDATA Fix Corrupt
 
 > [!IMPORTANT]
 > - Brought to you by: RisunTuru
